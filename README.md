@@ -3,4 +3,5 @@
 
 ![sistemas operacionais](https://s.zst.com.br/cms-assets/2023/12/o-que-e-sistema-operacional.webp)
 
-## Sistemas operacionais: Windows
+# Sistemas operacionais: Windows
+Os sistemas operacionais Windows são plataformas de softwares desenvolvidos pela Microsoft nos anos 80, projetadas para orientar o harware de um computador e fornecer uma área de interação com o usuário e o sistema de forma eficiente. **O Windows oferece uma ampla variedade de recursos, incluindo um campo de interação gráfico com ícones, janelas e menus que facilitam a navegação e o uso do sistema**. Além do mais, ele também oferece suporte para aplicativos, dispositivos periféricos, redes e segurança. A principal vantagem do Windows é a sua compatibilidade com uma ampla série de harwares e softwares, tornando-se uma das opções mais procuradas no mercado de sistemas operacionais. Antes da chegada da **interface gráfica, o computador era utilizado a partir de comandos de texto**. Não havia interatividade com o usuário. Era muito complicado passar comandos para a máquina sem ter bons conhecimentos de linguagem de programação. O primeiro Windows era uma junção do sistema operacional MS-DOS com a interface gráfica. A versão NT do Windows foi o primeiro sistema operacional da Microsoft a abandonar o MS-DOS.
